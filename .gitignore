@@ -1,0 +1,8 @@
+Backgroundpool/**
+data/**
+data-crop/**
+data-raw/**
+bilderStrukturen/**
+Servertools/IMGGen/dist/
+*.hi
+*.o
